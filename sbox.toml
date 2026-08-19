@@ -1,0 +1,9 @@
+[sandbox]
+command = "bash"
+include = []
+
+[network]
+connect-internet = true
+
+[bind]
+rw = ["."]

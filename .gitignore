@@ -33,3 +33,7 @@
 
 # Python cache
 __pycache__
+
+# Local development environments
+.idea/
+.sbox/
